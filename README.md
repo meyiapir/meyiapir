@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Frontend development**
 
-- 📫 How to reach me **martin@meyapir.ru**
+- 📫 How to contact me **martin@meyapir.ru**
 
 ![](https://www.codewars.com/users/meyiapir/badges/large)
 
