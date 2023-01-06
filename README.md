@@ -21,8 +21,6 @@
 </a> </p>
 <br />
 
-###
-
 <img src="https://raw.githubusercontent.com/meyiapir/meyiapir/blob/output/snake.svg" alt="Snake animation" />
 
 ###
