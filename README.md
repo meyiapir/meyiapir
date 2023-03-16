@@ -21,14 +21,14 @@
 </a> </p>
 <br />
 
-<!-- <img src="https://raw.githubusercontent.com/meyiapir/meyiapir/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/meyiapir/meyiapir/blob/output/snake.svg" alt="Snake animation" />
 
-### -->
+###
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meyiapir&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meyiapir&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact)
 <details>
   <summary>:zap: GitHub Stats</summary>
   <br>
-  <img align="left" alt="Martin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=meyiapir&show_icons=true&hide_border=true&theme=radical" /> -->
+  <img align="left" alt="Martin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=meyiapir&show_icons=true&hide_border=true&theme=radical" />
 
-<!-- </details> -->
+</details> 
