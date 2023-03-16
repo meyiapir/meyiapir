@@ -21,8 +21,6 @@
 </a> </p>
 <br />
 
-<img src="https://raw.githubusercontent.com/meyiapir/meyiapir/blob/output/snake.svg" alt="Snake animation" />
-
 ###
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meyiapir&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact)
