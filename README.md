@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
-<h3 align="center">Junior backend and DataScience developer. The main language is Python, also write in Go</h3>
+<h3 align="center">Backend and DataScience developer. The main language is Python, also write in Go and JS</h3>
 
 - 🌱 I’m currently learning **Frontend development**
 
